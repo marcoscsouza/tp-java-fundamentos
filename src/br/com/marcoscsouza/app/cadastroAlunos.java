@@ -129,7 +129,6 @@ public class cadastroAlunos {
 		} else {
 			return "Média final: " + average + "\nSituação: Prova Final";
 		}
-
 	}
 
 }
